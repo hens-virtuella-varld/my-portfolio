@@ -12,8 +12,8 @@ const About = () => {
 					</h1>
 					<p className="mb-8 leading-relaxed">
 						I want to be a developer who can write code easy to maintain in the
-						long term. I'm looking for a 27 weeks internship to learn more and
-						to contribute my skills. The internship should be beteen September 2023 and March 2024.
+						long term. I'm looking for an internship between September 2023 and
+						March 2024 to learn more and to contribute my skills.
 					</p>
 					<div className="flex justify-center">
 						<a

@@ -17,7 +17,7 @@ export const projects = [
 	},
 	{
 		title: "Game App",
-		subtitle: "JavaScriptm, HTML & CSS",
+		subtitle: "JavaScript, HTML & CSS",
 		description:
 			"My communication skills had the chance to get sharpened since this game app contains many sub-games and the team had to make sure that all the games are working well. ",
 		image: "./gameApp.gif",
@@ -43,8 +43,7 @@ export const testimonials = [
 		company: "Admissions Manager at Hyper Island",
 	},
 	{
-		quote:
-			"The recommendation will be post in a few days.",
+		quote: "The recommendation will be post in a few days.",
 		image:
 			"https://media.licdn.com/dms/image/D4D03AQGxadxELkDv0Q/profile-displayphoto-shrink_800_800/0/1673949883549?e=1689206400&v=beta&t=m6UsoUFldmc2aOZPpcbay7htB50_zYiSb36wfos9rJ8",
 		name: "Isaac Kuehnle-Nelson",

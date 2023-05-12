@@ -12,8 +12,8 @@ const Projects = () => {
 						Apps I've Built
 					</h1>
 					<p className="lg:w-2/3 mx-auto leading-relaxed text-base">
-						Below are the app I've built with my teammate during my study in
-						frontend developer program at Hyper Island.
+						Below are the app I've built during my study in frontend developer
+						program at Hyper Island.
 						<br />
 						Please hover your mouse to the projects to see more details; click
 						the projects to see the project's deployed website.
@@ -23,6 +23,7 @@ const Projects = () => {
 					{projects.map((project) => (
 						<a
 							href={project.link}
+							target="_blank"
 							key={project.image}
 							className="sm:w-1/2 w-100 p-4"
 						>
