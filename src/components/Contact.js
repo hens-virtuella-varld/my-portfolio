@@ -64,8 +64,9 @@ const Contact = () => {
 					</div>
 				</div>
 				<form
-					netlify
 					name="contact"
+					method="POST"
+					data-netlify="true"
 					onSubmit={handleSubmit}
 					className="lg:w-1/3 md:w-1/2 flex flex-col md:ml-auto w-full md:py-8 mt-8 md:mt-0"
 				>
@@ -73,7 +74,8 @@ const Contact = () => {
 						Hire Me
 					</h2>
 					<p className="leading-relaxed mb-5">
-						Feel Free to contact me for internship opportunities, any project or collaboration.
+						Feel Free to contact me for internship opportunities, any project or
+						collaboration.
 					</p>
 					<div className="relative mb-4">
 						<label htmlFor="name" className="leading-7 text-sm text-gray-400">
