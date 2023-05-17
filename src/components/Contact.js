@@ -55,6 +55,8 @@ const Contact = () => {
 							</h2>
 							<a className="text-indigo-400 leading-relaxed">
 								regan.ya@hyperisland.se
+								<br />
+								hens.virtuella.varld@gmail.com
 							</a>
 							<h2 className="title-font font-semibold text-white tracking-widest text-xs mt-4">
 								PHONE

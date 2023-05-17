@@ -36,18 +36,20 @@ export const projects = [
 export const testimonials = [
 	{
 		quote:
+			"...It is in making the course accessible to these wide ranging levels of knowledge where Regan demonstrates her deep understanding of coding and her empathy for students; she is able to analyze complex issues and reinterpret them in novel and compelling ways. Regan has an incredible capacity to distill a problem to its core contingent parts and work methodically outwards. She is a keen coder and a kind person.",
+		image:
+			"https://media.licdn.com/dms/image/D4D03AQGxadxELkDv0Q/profile-displayphoto-shrink_800_800/0/1673949883549?e=1689206400&v=beta&t=m6UsoUFldmc2aOZPpcbay7htB50_zYiSb36wfos9rJ8",
+		name: "Isaac Kuehnle-Nelson",
+		company:
+			"Project Lead at Seeds Coding / Former Engineering Team Lead at Happy Socks AB",
+	},
+	{
+		quote:
 			"…Regan was reliable and showed up to do their assigned task, and assisted all people who came with curious questions about Hyper Island. …Regan was also well prepared for the task and showed great engagement throughout the event. …The Admissions team at Hyper Island are very pleased to have worked with Regan and would ask for their continued support in the future.",
 		image:
 			"https://media.licdn.com/dms/image/D5603AQFvA4-U5co19w/profile-displayphoto-shrink_800_800/0/1633331750418?e=1689206400&v=beta&t=igOMJHsCqXCYbBMSpUak1rPU_f9_k9sKIwaaCm-1FrI",
 		name: "Angelica Ferneborg",
 		company: "Admissions Manager at Hyper Island",
-	},
-	{
-		quote: "The recommendation will be post in a few days.",
-		image:
-			"https://media.licdn.com/dms/image/D4D03AQGxadxELkDv0Q/profile-displayphoto-shrink_800_800/0/1673949883549?e=1689206400&v=beta&t=m6UsoUFldmc2aOZPpcbay7htB50_zYiSb36wfos9rJ8",
-		name: "Isaac Kuehnle-Nelson",
-		company: "Project Lead at Seeds Coding",
 	},
 ];
 
@@ -59,4 +61,5 @@ export const skills = [
 	"Tailwind",
 	"Node",
 	"Python",
+	"SQL",
 ];

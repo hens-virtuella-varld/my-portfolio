@@ -12,10 +12,10 @@ const Projects = () => {
 						Apps I've Built
 					</h1>
 					<p className="lg:w-2/3 mx-auto leading-relaxed text-base">
-						Below are the app I've built during my study in frontend developer
+						Below are the apps I've built during my study in Frontend Developer
 						program at Hyper Island.
 						<br />
-						Please hover your mouse to the projects to see more details; click
+						Please hover your pointer to the projects to see more details; click
 						the projects to see the project's deployed website.
 					</p>
 				</div>

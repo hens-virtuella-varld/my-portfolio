@@ -1,5 +1,6 @@
 import { ArrowRightIcon } from "@heroicons/react/solid";
 import React from "react";
+import { BsGithub, BsLinkedin } from "react-icons/bs";
 
 const Navbar = () => {
 	return (
@@ -21,6 +22,22 @@ const Navbar = () => {
 						Testimonials
 					</a>
 				</nav>
+				<a
+					className="mr-5 text-2xl hover:text-green-400"
+					href="https://github.com/hens-virtuella-varld"
+					target="_blank"
+					rel="noreferrer"
+				>
+					<BsGithub />
+				</a>
+				<a
+					className="mr-5 text-2xl hover:text-green-400"
+					href="https://www.linkedin.com/in/regan-y/"
+					target="_blank"
+					rel="noreferrer"
+				>
+					<BsLinkedin />
+				</a>
 				<a
 					href="#contact"
 					className="inline-flex items-center bg-gray-800 border-0 py-1 px-3 focus:outline-none hover:bg-gray-700 rounded text-base mt-4 md:mt-0"
