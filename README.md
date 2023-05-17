@@ -1,6 +1,6 @@
 ## Deployd site
 This is the porfolio's git repo for searching my frontend dev internship.
-The deployed site for this project: https://reganya-portfolio.vercel.app/
+The deployed site for this project: https://regan-portfolio.netlify.app/
 In this site, you can find some info about me and the projects I have done during my education.
 
 ## Reason for this project
