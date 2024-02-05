@@ -76,7 +76,7 @@ const Contact = () => {
 						Hire Me
 					</h2>
 					<p className="leading-relaxed mb-5">
-						Feel Free to contact me for internship opportunities, any project or
+						Feel Free to contact me for job opportunities, any project or
 						collaboration.
 					</p>
 					<div className="relative mb-4">
