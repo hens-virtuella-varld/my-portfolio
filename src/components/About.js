@@ -10,15 +10,10 @@ const About = () => {
             <br className='hidden lg:inline-block' />A frontend developer.
           </h1>
           <p className='mb-8 leading-relaxed'>
-            Currently, I'm a frontend dev intern in Epidemic Sound.
+            I'm going to finish my frontend internship at Epidemic Sound at the
+            end of March, 2024.
             <br />
-            My two main responsibilities are:
-            <br />
-            Develop and maintain design system with React, TypeScript, Storybook
-            and React Testing Library.
-            <br />
-            Develop the frontend site for a proof-of-concept Machine Learning
-            project using Next.js and TypeScript.
+            I'm open to new opportunities!
           </p>
           <div className='flex justify-center'>
             <a
