@@ -3,7 +3,7 @@ export const projects = [
     title: 'Developed the entire frontend for an ML project',
     subtitle: 'Next.js and TypeScript',
     description:
-      '',
+      '1. Helped design the UI and ensured that it aligned with the design system. 2. Developed some features for a music web application.',
     image: './windblade.png',
     link: 'https://youtu.be/sRKiAEfuiVk',
   },
