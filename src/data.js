@@ -1,11 +1,11 @@
 export const projects = [
   {
-    title: 'Developed the complete frontend for an ML project',
+    title: 'Developed the entire frontend for an ML project',
     subtitle: 'Next.js and TypeScript',
     description:
-      '1. Ensured the project aligned with the design system. 2. Redesigned the UI. 3. Developed features for a music web application: 3a) Built an application-wide music player system allowing users to play/pause songs, change the playback etc. 3b) Interface that allows the user to select and slice parts of the song. 3c) Dynamic and real-time-updated queueing system for track generation..',
+      '',
     image: './windblade.png',
-    link: '',
+    link: 'https://youtu.be/sRKiAEfuiVk',
   },
   {
     title: 'Orion Psykoterapigruppen Website',
