@@ -1,11 +1,19 @@
 export const projects = [
   {
     title: 'Developed the entire frontend for an ML project',
-    subtitle: 'Next.js and TypeScript',
+    subtitle: 'Next.js(React), TypeScript & REST APIs',
     description:
       'I was the main developer for this frontend UI project. I helped design the UI and ensured that it aligned with the design system; and developed features for a music web application.',
     image: './windblade.png',
     link: 'https://youtu.be/sRKiAEfuiVk',
+  },
+  {
+    title: 'Countries Info App',
+    subtitle: 'Nuxt.js(Vue), Tailwind & REST APIs',
+    description:
+      'This web application lets users explore countries by selecting one to view detailed information. I designed the UI on my own and the application is fully responsive',
+    image: './countriesInfo.gif',
+    link: 'countries-info-app-regan.vercel.app/',
   },
   {
     title: 'Orion Psykoterapigruppen Website',
