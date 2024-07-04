@@ -11,9 +11,9 @@ export const projects = [
     title: 'Countries Info App',
     subtitle: 'Nuxt.js(Vue), Tailwind & REST APIs',
     description:
-      'This web application lets users explore countries by selecting one to view detailed information. I designed the UI on my own and the application is fully responsive',
+      'This web application lets users explore countries by selecting one to view detailed information. I designed the UI on my own and the application is fully responsive.',
     image: './countriesInfo.gif',
-    link: 'countries-info-app-regan.vercel.app/',
+    link: 'https://countries-info-app-regan.vercel.app/',
   },
   {
     title: 'Orion Psykoterapigruppen Website',
@@ -70,10 +70,16 @@ export const testimonials = [
 ];
 
 export const skills = [
-  'React & Next.js',
-  'HTML, CSS & TypeScript',
-  'Git',
-  'Storybook',
-  'React Testing Library',
-  'Node.js',
+  'Next.js & React',
+  'Nuxt.js & Vue',
+  'TypeScript & JavaScript',
+  'Tailwind, SASS, CSS & HTML',
+  'REST APIs',
+  'Git & GitHub',
+  'Storybook & Figma',
+  'Node.js & NPM',
+  'React Testing Library & Vitest',
+  'MongoDB, PostgreSQL & SQL',
+  'Agile (Scrum & Kanban)',
+  'Jira, Confluence & Miro',
 ];
