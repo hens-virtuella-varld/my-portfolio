@@ -53,8 +53,7 @@ export const testimonials = [
   {
     quote:
       '...It is in making the course accessible to these wide ranging levels of knowledge where Regan demonstrates her deep understanding of coding and her empathy for students; she is able to analyze complex issues and reinterpret them in novel and compelling ways. Regan has an incredible capacity to distill a problem to its core contingent parts and work methodically outwards. She is a keen coder and a kind person.',
-    image:
-      'https://media.licdn.com/dms/image/D4D03AQGxadxELkDv0Q/profile-displayphoto-shrink_800_800/0/1673949885987?e=1712793600&v=beta&t=aJ-dq9gsKUY86Zvh6EV5L6IEOP7bBWvx3__uULlQ9HY',
+    image: './isaac.jpeg',
     name: 'Isaac Kuehnle-Nelson',
     company:
       'Project Lead at Seeds Coding / Former Engineering Team Lead at Happy Socks AB',
@@ -62,8 +61,7 @@ export const testimonials = [
   {
     quote:
       '…Regan was reliable and showed up to do their assigned task, and assisted all people who came with curious questions about Hyper Island. …Regan was also well prepared for the task and showed great engagement throughout the event. …The Admissions team at Hyper Island are very pleased to have worked with Regan and would ask for their continued support in the future.',
-    image:
-      'https://media.licdn.com/dms/image/D5603AQFvA4-U5co19w/profile-displayphoto-shrink_800_800/0/1633331751061?e=1712793600&v=beta&t=QN5Ix3QUyZPjfe2IMfwANHNMWX7RESspOhJn1CaznaU',
+    image: './angelica.jpeg',
     name: 'Angelica Ferneborg',
     company: 'Admissions Manager at Hyper Island',
   },
