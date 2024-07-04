@@ -6,14 +6,27 @@ const About = () => {
       <div className='container mx-auto flex px-10 py-20 md:flex-row flex-col items-center'>
         <div className='lg:flex-grow md:w-1/2 lg:pr-24 md:pr-16 flex flex-col md:items-start md:text-left mb-16 md:mb-0 items-center text-center'>
           <h1 className='title-font sm:text-4xl text-3xl mb-4 font-medium text-white'>
-            Hi, I'm Regan Ya.
-            <br className='hidden lg:inline-block' />A frontend developer.
+            <ul>
+              <li>Hi, I'm Regan Ya.</li>
+              <li>A web developer and open for new opportunities!</li>
+            </ul>
           </h1>
           <p className='mb-8 leading-relaxed'>
-            I'm going to finish my frontend internship at Epidemic Sound at the
-            end of March, 2024.
-            <br />
-            I'm open to new opportunities!
+            <ul>
+              <li>
+                Web Developer with 3+ years of programming experience and 1+
+                year of professional experience.
+              </li>
+              <li>
+                Specialising in crafting user-friendly web applications using
+                Next.js, React and Typescript.
+              </li>
+              <li>
+                I excel at working efficiently, finding sharp solutions through
+                collaboration and maintaining a balance between the big picture
+                and meticulous problem-solving.
+              </li>
+            </ul>
           </p>
           <div className='flex justify-center'>
             <a
